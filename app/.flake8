@@ -1,4 +1,5 @@
 [flake8]
+ignore = E111,E302,W391,W293,E114,E231
 exclude = 
   migrations,
   __pyccache__,
